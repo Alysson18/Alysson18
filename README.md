@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alysson Paulino 👋
 
 - 🔭 Hoje Trabalho com front-end e backend
-- 🌱 Estudando Java, C#
+- 🌱 Estudando Java, C#, React
 
 <div>
   <a href="https://github.com/alysson18">
