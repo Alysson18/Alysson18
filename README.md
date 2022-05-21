@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/alysson18">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alysson18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysson18&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%;"//>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysson18&layout=compact&langs_count=9&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%;"//>
 </div>
 
   <div style="display: inline_block"><br>
