@@ -14,7 +14,7 @@
   <img align="center" alt="Alysson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alysson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Alysson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Alysson-Delphi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg">
+  <img align="center" alt="Alysson-Delphi" height="30" width="40" src="https://dtffvb2501i0o.cloudfront.net/images/logos/made-with-delphi-logo-1024.png">
 </div>
 <br>
   <br/>
